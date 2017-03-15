@@ -9,7 +9,12 @@ class Tutorial {
 		visitas = 0;
 	}
 	
+
 	public int dinerito() {
 		return 0;
+
+	public int partner (int dinerito) {
+		return (dinerito * visitas);
+
 	}
 }
