@@ -8,4 +8,8 @@ class Tutorial {
 		senorTutorial = "Tipo de inógnito";
 		visitas = 0;
 	}
+	
+	public int partner (int dinerito) {
+		return (dinerito * visitas);
+	}
 }
